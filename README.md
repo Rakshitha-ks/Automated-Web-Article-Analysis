@@ -35,7 +35,7 @@ In this project, we automate the process of extracting articles from web pages, 
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/Automated-Web-Article-Analysis.git
+git clone https://github.com/Rakshitha-ks/Automated-Web-Article-Analysis.git
 cd Automated-Web-Article-Analysis
 ```
 
